@@ -116,7 +116,7 @@ HTML_TEMPLATE = """
 
 <body>
   <div class="container">
-    <h1>Docker Container Stats Dashboard</h1>
+    <h1>Docker Dashboard</h1>
     <div class="controls">
       <form action="/" method="get" class="line-count">
         <label for="lines">Number of lines:</label>
