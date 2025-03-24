@@ -1,3 +1,4 @@
 locust
 flask
 pandas
+requests

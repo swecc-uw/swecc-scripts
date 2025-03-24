@@ -12,3 +12,5 @@ data/*
 __pycache__/
 smp/*
 *.log
+
+bots.json
